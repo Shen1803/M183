@@ -26,6 +26,6 @@ Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es 
 
 👍 Die einarbeitung in das Modul troz anfänglichen schwierigkeiten ist sehr reibungslos abgelaufen.
 
-👎 Ich habe leider den Erstenblock welcher vielleicht der Wichtiste ist verpasst habe.
+👎 Ich habe leider manchmal probleme gehabt genau zu verstehen wie genau man jetzt diese Sicherheitslücke schliessen kann.
 
-Eine Optimierungsidee wäre vielleicht am Morgen vor dem Unterricht etwas zu essen, damit ich nicht die erste Pause dafür brauche um etwas zu Essen.
+Eine Optimierungsidee wäre vielleicht nochmal nachfragen wenn etwas nicht ganz klar war oder einen Kolegen oder Kolegin zu fragen ob sie es mir erklären können.
