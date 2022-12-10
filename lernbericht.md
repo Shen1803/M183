@@ -3,11 +3,11 @@ Simon Moor
 
 ## Einleitung
 
-Im Modul 183 geht es Hauptsächlich um Webseiten sicher zu machen. Diese haben wir mithilfe einer vorgefertigten Webseite geüpt.
+Im Modul 183 geht es Hauptsächlich um Webseiten sicher zu machen. Diese haben wir mithilfe einer vorgefertigten Webseite geübt.
 
 ## Was habe ich gelernt?
 
-Einerseit wie man ein Bild einfügt und andererseit wie man dann diese Bild als Link verwenden kann um eine Action auszuführen.
+Ich habe verschidene Arten von Berechtigungssystemen gelert welche man benutzen kann damit User die Richtigen Berechtigugen haben.
 
 ## Beschreibung
 
