@@ -3,7 +3,7 @@ Simon Moor
 
 ## Einleitung
 
-Im Modul 133 geht es Hauptsächlich um Webseiten. Diese Webseiten haben wir mit hilfe xhtml, JSF und Beans gebaut.
+Im Modul 183 geht es Hauptsächlich um Webseiten sicher zu machen. Diese haben wir mithilfe einer vorgefertigten Webseite geüpt.
 
 ## Was habe ich gelernt?
 
