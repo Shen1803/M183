@@ -17,7 +17,8 @@ Ich habe verschidene Arten von Berechtigungssystemen gelert welche man benutzen 
     <f:setPropertyActionListener value="h" target="#{helloManagedBean.hautfarbe}"></f:setPropertyActionListener>
  </h:commandLink>
  ```
- ![Screenshot (3)](https://user-images.githubusercontent.com/110914364/187161011-3b316b1f-58dd-4587-b988-34d57e5f5889.png)
+<img width="398" alt="Screenshot 2022-12-11 185346" src="https://user-images.githubusercontent.com/110914364/206920179-daff55dd-5be8-4444-911a-d141ed81ca6d.png">
+
 
 
 Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es auf der Webseite sieht und im Bild darunter sieht man wie es dann schlussendlich aussieht.
