@@ -19,6 +19,8 @@ W = Write
 R = Read
 D = Delete
 
+DAC ist nur eins von vielen verschiedenen Modellen zusammen mit RBAC Role Based Access Control  und AVAC Attribute Based Access Control gehören sie zu den Meistverbreiteten Modellen und auch zu den Vielversprechensten. 
+
 # Reflektion zum Arbeitsprozess
 
 👍 Die einarbeitung in das Modul troz anfänglichen schwierigkeiten ist sehr reibungslos abgelaufen.
