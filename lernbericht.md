@@ -11,17 +11,12 @@ Ich habe verschidene Arten von Berechtigungssystemen gelert welche man benutzen 
 
 ## Beschreibung
 
-```Jave
-<h:commandLink action="post.xhtml">
-   <h:graphicImage value="rescources/img/h.png" width="200"></h:graphicImage>
-    <f:setPropertyActionListener value="h" target="#{helloManagedBean.hautfarbe}"></f:setPropertyActionListener>
- </h:commandLink>
- ```
 <img width="398" alt="Screenshot 2022-12-11 185346" src="https://user-images.githubusercontent.com/110914364/206920179-daff55dd-5be8-4444-911a-d141ed81ca6d.png">
 
-
-
-Im obrigen Code ausschnit sieht man wie es in Code umgesetzte wird damit man es auf der Webseite sieht und im Bild darunter sieht man wie es dann schlussendlich aussieht.
+Im obrigen Bild sieht man eine Berechtigungsmatrix welche zum DAC Discretionary Access Control Model zusammenhängt. Diese Matrix ist ganz einfach erklärt. Die Y-Achse sind die Benutzer und in der X-Achse sind die Daten. Wo sich nun der Benutzer und die Daten kreuzen in diesm Feld steht dann welche berechtigung der Benutzer bei dieser Datei hat. 
+W = Write
+R = Read
+D = Delete
 
 # Reflektion zum Arbeitsprozess
 
